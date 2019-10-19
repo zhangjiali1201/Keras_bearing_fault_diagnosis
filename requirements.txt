@@ -1,0 +1,12 @@
+tensorflow
+
+keras
+
+numpy
+
+scipy
+
+os
+
+sklearn
+matplotlib
