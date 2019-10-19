@@ -1,5 +1,5 @@
 # Keras_bearing_fault_diagnosis
-**CNN轴承故障识别**
+**基于CNN的轴承故障识别**
 
 **1.简介**
 本科毕设，基于凯斯西储大学公开轴承数据集建立的CNN轴承故障识别模型。
@@ -27,7 +27,7 @@ cnn_diagnosis 论文代码
 
 cnn_valid.py 测试不同全连接层数、卷积层数选择最优模型
 
-preprocess.py 数据预处理（代码来自https://github.com/AaronCosmos/wdcnn_bearning_fault_diagnosis）
+preprocess.py 数据预处理（预处理代码来自https://github.com/AaronCosmos/wdcnn_bearning_fault_diagnosis ）
 
 *images文件夹 保存模型流程图；
 data文件夹 保存数据集；
